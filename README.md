@@ -1,12 +1,12 @@
-# Calcular Imposto em C#
+# Calculador de Impostos em C# 🧮💰
 
-Bem-vindo ao maravilhoso mundo dos impostos e benefícios! 🤑📉
-
-Neste repositório, você encontrará um programa C# que faz cálculos de impostos de forma simples e direta. Se você já ficou perdido na selva das alíquotas de impostos, este é o seu mapa!
+Olá, pessoal! 👋 Se você sempre quis saber quanto realmente vai levar pra casa depois dos impostos e benefícios, este código em C# vai te ajudar! Ele faz todo o trabalho pesado para você. Vamos conferir como funciona essa belezura?
 
 ## O Que Este Código Faz?
 
-Este código é um super-herói que ajuda você a calcular o valor final que você vai levar pra casa após descontar impostos e adicionar benefícios. Vamos por partes:
+Este código C# é como um assistente pessoal digital que calcula o quanto você vai receber após o imposto e adicionar seus benefícios. 🚀
+
+### O Que Acontece Passo a Passo:
 
 1. **Solicitação de Dados**:
    - Primeiro, ele pergunta o seu **salário**. Sim, aquele valor suado do seu trabalho duro!
